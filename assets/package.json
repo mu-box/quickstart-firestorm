@@ -35,7 +35,7 @@
     "sass-brunch": "^2.10.4",
     "sass-loader": "^6.0.3",
     "style-loader": "^0.17.0",
-    "typeplate-starter-kit": "^3.0.2",
+    "typeplate-starter-kit": "^3.0.3",
     "uglify-js-brunch": "2.1.1",
     "url-loader": "^0.5.8",
     "webpack": "^2.5.0",
